@@ -49,19 +49,7 @@ I am actively looking for opportunities where I can **contribute to real analyti
 - Identified high-risk customer segments contributing to disproportionate return rates  
 - Translated findings into **business-level insights** rather than raw statistics  
 
-🔗 *Repository:* https://github.com/Samragya013/customer-return-analytics.git  
-
----
-
-### 🔹 Sales & Performance Analytics Dashboard
-📌 **Domain:** Business Intelligence | Sales Analytics  
-🛠 **Tools:** Power BI, SQL, Excel  
-
-- Built an **end-to-end Power BI dashboard** using structured data models  
-- Designed KPIs for revenue, trends, and performance tracking  
-- Enabled interactive exploration for business stakeholders  
-
-🔗 *Repository:* https://github.com/Samragya013/powerbi-sales-dashboard.git  
+🔗 *Repository:* https://github.com/Samragya013/Customer_Return_Behavior_Analysis.git 
 
 ---
 
