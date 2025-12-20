@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I am a Computer Science undergraduate with a strong interest in **Data Analytics and Business Intelligence**.  
+I am a B.TECH. C.S.E(UG) with a strong interest in **Data Analytics and Business Intelligence**.  
 I focus on solving **real-world business problems using data**, not just building dashboards or writing queries.
 
 My learning approach is simple:
