@@ -68,7 +68,7 @@ I am actively looking for opportunities where I can **contribute to real analyti
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samragya013e&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samragya013&show_icons=true&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
