@@ -49,7 +49,7 @@ I am actively looking for opportunities where I can **contribute to real analyti
 - Identified high-risk customer segments contributing to disproportionate return rates  
 - Translated findings into **business-level insights** rather than raw statistics  
 
-🔗 *Repository:* https://github.com/your-username/customer-return-analytics  
+🔗 *Repository:* https://github.com/Samragya013/customer-return-analytics.git  
 
 ---
 
@@ -61,18 +61,18 @@ I am actively looking for opportunities where I can **contribute to real analyti
 - Designed KPIs for revenue, trends, and performance tracking  
 - Enabled interactive exploration for business stakeholders  
 
-🔗 *Repository:* https://github.com/your-username/powerbi-sales-dashboard  
+🔗 *Repository:* https://github.com/Samragya013/powerbi-sales-dashboard.git  
 
 ---
 
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samragya013e&show_icons=true&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samragya013&layout=compact&theme=default&hide_border=true" />
 </p>
 
 ---
