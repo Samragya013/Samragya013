@@ -1,4 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Samragya Banerjee
+# Hi! I am Samragya Banerjee
 
 🎓 2nd Year B.Tech (CSE) Undergraduate  
 📊 Aspiring Data Analyst | Business-Focused Analytics  
@@ -50,18 +50,6 @@ I am actively looking for opportunities where I can **contribute to real analyti
 - Translated findings into **business-level insights** rather than raw statistics  
 
 🔗 *Repository:* https://github.com/Samragya013/Customer_Return_Behavior_Analysis.git 
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samragya013&show_icons=true&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samragya013&layout=compact&theme=default&hide_border=true" />
-</p>
 
 ---
 
