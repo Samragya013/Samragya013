@@ -72,38 +72,24 @@ I enjoy bridging the gap between technical analysis and business strategy.
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,python" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
-
-* SQL
-* Power BI
-* Tableau
-* Microsoft Excel
-* KPI Analysis
-* Dashboard Development
-* Business Intelligence
 
 ### Data Analytics
 
-* Pandas
-* NumPy
-* Matplotlib
-* Scikit-Learn
-* Statistical Analysis
-* Customer Segmentation
-* Forecasting
-
-### Data Engineering
-
-* ETL Pipelines
-* Data Cleaning
-* Data Transformation
-* Data Modeling
-* Data Validation
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
 
 ### Development & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,firebase,fastapi,nextjs,typescript" />
+<img src="https://skillicons.dev/icons?i=git,github,firebase,fastapi,nextjs,typescript,vscode" />
 </p>
 
 ---
